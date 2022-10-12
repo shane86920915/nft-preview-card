@@ -48,7 +48,6 @@ body {
     align-items: center;
     background-color: hsl(217, 54%, 11%);
     font-family: 'Outfit', sans-serif;
-    
 }
 .container > a{
     margin: 1.3rem;
@@ -59,7 +58,6 @@ body {
     display: block;
     max-width: 100%;
     border-radius: 5px;
-   
 }
 .container > a::before{
 content: '';
@@ -127,7 +125,6 @@ p{
     margin-left: 5.3rem;
     padding-right: .5rem;
 }
-
 ul > li{
     color:hsl(215, 51%, 70%);
 }
